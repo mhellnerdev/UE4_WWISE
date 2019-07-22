@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="11" SoundbankVersion="134">
+	<RootPaths>
+		<ProjectRoot>D:\GameDev\_unreal\MarsMarine-UEProject\MarsMarine-UEProject_WwiseProject\</ProjectRoot>
+		<SourceFilesRoot>D:\GameDev\_unreal\MarsMarine-UEProject\MarsMarine-UEProject_WwiseProject\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>D:\GameDev\_unreal\MarsMarine-UEProject\MarsMarine-UEProject_WwiseProject\GeneratedSoundBanks\Windows\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>D:\GameDev\_unreal\MarsMarine-UEProject\MarsMarine-UEProject_WwiseProject\GeneratedSoundBanks\Windows</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles/>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="1355168291" Language="SFX">
+			<ObjectPath>Init</ObjectPath>
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+		</SoundBank>
+		<SoundBank Id="2228651116" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\Main_Soundbank</ObjectPath>
+			<ShortName>Main_Soundbank</ShortName>
+			<Path>Main_Soundbank.bnk</Path>
+			<IncludedEvents>
+				<Event Id="1866025847" Name="Footstep" ObjectPath="\Events\Default Work Unit\Footstep"/>
+				<Event Id="1410962341" Name="Test_Overlap" ObjectPath="\Events\Default Work Unit\Test_Overlap"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="62656906" Language="SFX">
+					<ShortName>Footstep_Generic05.WAV</ShortName>
+					<Path>SFX\Footstep_Generic05_0B1BC86B.wem</Path>
+				</File>
+				<File Id="82293863" Language="SFX">
+					<ShortName>Footstep_Generic05.WAV</ShortName>
+					<Path>SFX\Footstep_Generic05_B339597B.wem</Path>
+				</File>
+				<File Id="98151545" Language="SFX">
+					<ShortName>Footstep_Generic12.WAV</ShortName>
+					<Path>SFX\Footstep_Generic12_53B58DF8.wem</Path>
+				</File>
+				<File Id="132507609" Language="SFX">
+					<ShortName>Footstep_Generic06.WAV</ShortName>
+					<Path>SFX\Footstep_Generic06_4478BE9B.wem</Path>
+				</File>
+				<File Id="151966364" Language="SFX">
+					<ShortName>Footstep_Generic07.WAV</ShortName>
+					<Path>SFX\Footstep_Generic07_4F7079A3.wem</Path>
+				</File>
+				<File Id="250964406" Language="SFX">
+					<ShortName>Footstep_Generic01.WAV</ShortName>
+					<Path>SFX\Footstep_Generic01_B4650B22.wem</Path>
+				</File>
+				<File Id="330847727" Language="SFX">
+					<ShortName>Footstep_Generic11.WAV</ShortName>
+					<Path>SFX\Footstep_Generic11_402A9144.wem</Path>
+				</File>
+				<File Id="384652671" Language="SFX">
+					<ShortName>Footstep_Generic09.WAV</ShortName>
+					<Path>SFX\Footstep_Generic09_44752369.wem</Path>
+				</File>
+				<File Id="413706425" Language="SFX">
+					<ShortName>Footstep_Generic01.WAV</ShortName>
+					<Path>SFX\Footstep_Generic01_283BB0E7.wem</Path>
+				</File>
+				<File Id="443193269" Language="SFX">
+					<ShortName>Footstep_Generic08.WAV</ShortName>
+					<Path>SFX\Footstep_Generic08_C2B9F20E.wem</Path>
+				</File>
+				<File Id="458502390" Language="SFX">
+					<ShortName>Footstep_Generic06.WAV</ShortName>
+					<Path>SFX\Footstep_Generic06_F352E222.wem</Path>
+				</File>
+				<File Id="523799232" Language="SFX">
+					<ShortName>Footstep_Generic04.WAV</ShortName>
+					<Path>SFX\Footstep_Generic04_95416C38.wem</Path>
+				</File>
+				<File Id="571759457" Language="SFX">
+					<ShortName>Footstep_Generic08.WAV</ShortName>
+					<Path>SFX\Footstep_Generic08_8B38E799.wem</Path>
+				</File>
+				<File Id="606075105" Language="SFX">
+					<ShortName>Footstep_Generic03.WAV</ShortName>
+					<Path>SFX\Footstep_Generic03_40467110.wem</Path>
+				</File>
+				<File Id="606533856" Language="SFX">
+					<ShortName>Footstep_Generic12.WAV</ShortName>
+					<Path>SFX\Footstep_Generic12_293B3530.wem</Path>
+				</File>
+				<File Id="665061075" Language="SFX">
+					<ShortName>Footstep_Generic10.WAV</ShortName>
+					<Path>SFX\Footstep_Generic10_4DB6E1EA.wem</Path>
+				</File>
+				<File Id="692497960" Language="SFX">
+					<ShortName>Footstep_Generic07.WAV</ShortName>
+					<Path>SFX\Footstep_Generic07_180954A4.wem</Path>
+				</File>
+				<File Id="724161900" Language="SFX">
+					<ShortName>Footstep_Generic10.WAV</ShortName>
+					<Path>SFX\Footstep_Generic10_54E8FCD0.wem</Path>
+				</File>
+				<File Id="740053301" Language="SFX">
+					<ShortName>Footstep_Generic11.WAV</ShortName>
+					<Path>SFX\Footstep_Generic11_4F2870D6.wem</Path>
+				</File>
+				<File Id="828635196" Language="SFX">
+					<ShortName>Footstep_Generic02.WAV</ShortName>
+					<Path>SFX\Footstep_Generic02_58CD3CC9.wem</Path>
+				</File>
+				<File Id="873856326" Language="SFX">
+					<ShortName>Footstep_Generic02.WAV</ShortName>
+					<Path>SFX\Footstep_Generic02_7E6CA678.wem</Path>
+				</File>
+				<File Id="906882796" Language="SFX">
+					<ShortName>Footstep_Generic03.WAV</ShortName>
+					<Path>SFX\Footstep_Generic03_E47BA33A.wem</Path>
+				</File>
+				<File Id="1026882453" Language="SFX">
+					<ShortName>Footstep_Generic04.WAV</ShortName>
+					<Path>SFX\Footstep_Generic04_7253370F.wem</Path>
+				</File>
+				<File Id="1054496780" Language="SFX">
+					<ShortName>Footstep_Generic09.WAV</ShortName>
+					<Path>SFX\Footstep_Generic09_B73E1868.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>
