@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{7A44C23B-307E-4F1A-B556-BFA086891AA8}" SchemaVersion="94" RootDocumentID="{B7D9A682-199B-4C65-B64E-8F1DFFE6DE18}">
+	<Events>
+		<WorkUnit Name="WEP_Assault_Rifle" ID="{7A44C23B-307E-4F1A-B556-BFA086891AA8}" OwnerID="{B7D9A682-199B-4C65-B64E-8F1DFFE6DE18}" PersistMode="Nested">
+			<ChildrenList>
+				<Event Name="Play_Assault_Rifle_Loop" ID="{32189B42-C693-48F8-8F6F-63F3061CAA15}">
+					<ChildrenList>
+						<Action Name="" ID="{809E12EB-20D0-49DD-9674-3988A17B1546}" ShortID="764769141">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Assault_Rifle_Loop" ID="{C899E999-04CF-48CA-BAD4-8ED8045D2C5F}" WorkUnitID="{94B30DA2-E883-4807-8888-DF75FC70ACBC}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_Assault_Rifle_EndLoop" ID="{5B2FAEB4-D907-45DC-9A8D-F6BC2B6039A6}">
+					<ChildrenList>
+						<Action Name="" ID="{2A917F53-6F55-4A7A-94B5-9F97DB4BA9AE}" ShortID="125693425">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Assault_Rifle_EndLoop" ID="{DF430B06-AE12-4DAC-A0E8-DACF4609DA7D}" WorkUnitID="{94B30DA2-E883-4807-8888-DF75FC70ACBC}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

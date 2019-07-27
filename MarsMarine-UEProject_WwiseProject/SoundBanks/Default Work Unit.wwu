@@ -6,6 +6,9 @@
 				<SoundBank Name="Main_Soundbank" ID="{AEE4CF6A-45F9-474F-8D14-6FC880B87DB3}">
 					<ObjectInclusionList>
 						<ObjectRef Name="Footstep" ID="{32F57918-67B1-4090-A8A5-0F51CDA6AC7D}" WorkUnitID="{7DBEAC4E-735F-41F8-A2C4-E7E315146515}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Spider_Death" ID="{470D105E-0B45-42A9-A9D7-18C1EC649F46}" WorkUnitID="{911763F1-698E-439D-9DD5-E7E7FB3CE919}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Play_Assault_Rifle_EndLoop" ID="{5B2FAEB4-D907-45DC-9A8D-F6BC2B6039A6}" WorkUnitID="{7A44C23B-307E-4F1A-B556-BFA086891AA8}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Play_Assault_Rifle_Loop" ID="{32189B42-C693-48F8-8F6F-63F3061CAA15}" WorkUnitID="{7A44C23B-307E-4F1A-B556-BFA086891AA8}" Filter="7" Origin="Manual"/>
 						<ObjectRef Name="Test_Overlap" ID="{596596BA-D370-492D-B322-E11E3CC73E9F}" WorkUnitID="{7DBEAC4E-735F-41F8-A2C4-E7E315146515}" Filter="7" Origin="Manual"/>
 					</ObjectInclusionList>
 					<ObjectExclusionList/>

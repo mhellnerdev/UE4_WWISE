@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <SoundBanksInfo Platform="Mac" BasePlatform="Mac" SchemaVersion="11" SoundbankVersion="134">
 	<RootPaths>
-		<ProjectRoot>D:\GameDev\_unreal\MarsMarine-UEProject\MarsMarine-UEProject_WwiseProject\</ProjectRoot>
-		<SourceFilesRoot>D:\GameDev\_unreal\MarsMarine-UEProject\MarsMarine-UEProject_WwiseProject\.cache\Mac\</SourceFilesRoot>
-		<SoundBanksRoot>D:\GameDev\_unreal\MarsMarine-UEProject\MarsMarine-UEProject_WwiseProject\GeneratedSoundBanks\Mac\</SoundBanksRoot>
+		<ProjectRoot>C:\dev\GameDev\Unreal_Projects\UE4\MarsMarine-UEProject\MarsMarine-UEProject_WwiseProject\</ProjectRoot>
+		<SourceFilesRoot>C:\dev\GameDev\Unreal_Projects\UE4\MarsMarine-UEProject\MarsMarine-UEProject_WwiseProject\.cache\Mac\</SourceFilesRoot>
+		<SoundBanksRoot>C:\dev\GameDev\Unreal_Projects\UE4\MarsMarine-UEProject\MarsMarine-UEProject_WwiseProject\GeneratedSoundBanks\Mac\</SoundBanksRoot>
 		<ExternalSourcesInputFile></ExternalSourcesInputFile>
-		<ExternalSourcesOutputRoot>D:\GameDev\_unreal\MarsMarine-UEProject\MarsMarine-UEProject_WwiseProject\GeneratedSoundBanks\Mac</ExternalSourcesOutputRoot>
+		<ExternalSourcesOutputRoot>C:\dev\GameDev\Unreal_Projects\UE4\MarsMarine-UEProject\MarsMarine-UEProject_WwiseProject\GeneratedSoundBanks\Mac</ExternalSourcesOutputRoot>
 	</RootPaths>
 	<DialogueEvents/>
 	<StreamedFiles/>
@@ -22,16 +22,43 @@
 			<Path>Main_Soundbank.bnk</Path>
 			<IncludedEvents>
 				<Event Id="1866025847" Name="Footstep" ObjectPath="\Events\Default Work Unit\Footstep"/>
+				<Event Id="1937899092" Name="Play_Assault_Rifle_EndLoop" ObjectPath="\Events\Weapons\WEP\WEP_Assault_Rifle\Play_Assault_Rifle_EndLoop"/>
+				<Event Id="4055020373" Name="Play_Assault_Rifle_Loop" ObjectPath="\Events\Weapons\WEP\WEP_Assault_Rifle\Play_Assault_Rifle_Loop"/>
+				<Event Id="4166439457" Name="Spider_Death" ObjectPath="\Events\Enemies\Spider\Spider_Death"/>
 				<Event Id="1410962341" Name="Test_Overlap" ObjectPath="\Events\Default Work Unit\Test_Overlap"/>
 			</IncludedEvents>
 			<IncludedMemoryFiles>
+				<File Id="3476768" Language="SFX">
+					<ShortName>AssaultRifle_ShotEnd04_Stereo.WAV</ShortName>
+					<Path>SFX\AssaultRifle_ShotEnd04_Stereo_10C4C929.wem</Path>
+				</File>
+				<File Id="21664215" Language="SFX">
+					<ShortName>AssaultRifle_ShotEnd03_Stereo.WAV</ShortName>
+					<Path>SFX\AssaultRifle_ShotEnd03_Stereo_10C4C929.wem</Path>
+				</File>
+				<File Id="27527134" Language="SFX">
+					<ShortName>AssaultRifle_ShotEnd05_Stereo.WAV</ShortName>
+					<Path>SFX\AssaultRifle_ShotEnd05_Stereo_10C4C929.wem</Path>
+				</File>
+				<File Id="36905875" Language="SFX">
+					<ShortName>FoleyFlesh_Gib02.WAV</ShortName>
+					<Path>SFX\FoleyFlesh_Gib02_10C4C929.wem</Path>
+				</File>
 				<File Id="62656906" Language="SFX">
 					<ShortName>Footstep_Generic05.WAV</ShortName>
 					<Path>SFX\Footstep_Generic05_78DB2988.wem</Path>
 				</File>
+				<File Id="67390931" Language="SFX">
+					<ShortName>AssaultRifle_ShotEnd06_Stereo.WAV</ShortName>
+					<Path>SFX\AssaultRifle_ShotEnd06_Stereo_10C4C929.wem</Path>
+				</File>
 				<File Id="82293863" Language="SFX">
 					<ShortName>Footstep_Generic05.WAV</ShortName>
 					<Path>SFX\Footstep_Generic05_E157D22E.wem</Path>
+				</File>
+				<File Id="97214881" Language="SFX">
+					<ShortName>FoleyFlesh_Gib03.WAV</ShortName>
+					<Path>SFX\FoleyFlesh_Gib03_10C4C929.wem</Path>
 				</File>
 				<File Id="98151545" Language="SFX">
 					<ShortName>Footstep_Generic12.WAV</ShortName>
@@ -41,17 +68,57 @@
 					<ShortName>Footstep_Generic06.WAV</ShortName>
 					<Path>SFX\Footstep_Generic06_F2FD6C0F.wem</Path>
 				</File>
+				<File Id="137072947" Language="SFX">
+					<ShortName>FoleyFlesh_Gib02_Stereo.WAV</ShortName>
+					<Path>SFX\FoleyFlesh_Gib02_Stereo_10C4C929.wem</Path>
+				</File>
 				<File Id="151966364" Language="SFX">
 					<ShortName>Footstep_Generic07.WAV</ShortName>
 					<Path>SFX\Footstep_Generic07_A2457E42.wem</Path>
+				</File>
+				<File Id="157750716" Language="SFX">
+					<ShortName>FoleyFlesh_Gib04_Stereo.WAV</ShortName>
+					<Path>SFX\FoleyFlesh_Gib04_Stereo_10C4C929.wem</Path>
+				</File>
+				<File Id="192702757" Language="SFX">
+					<ShortName>FoleyFlesh_Gib05.WAV</ShortName>
+					<Path>SFX\FoleyFlesh_Gib05_10C4C929.wem</Path>
+				</File>
+				<File Id="223509343" Language="SFX">
+					<ShortName>FoleyFlesh_Gib01_Stereo.WAV</ShortName>
+					<Path>SFX\FoleyFlesh_Gib01_Stereo_10C4C929.wem</Path>
+				</File>
+				<File Id="226746022" Language="SFX">
+					<ShortName>FoleyFlesh_Gib03_Stereo.WAV</ShortName>
+					<Path>SFX\FoleyFlesh_Gib03_Stereo_10C4C929.wem</Path>
+				</File>
+				<File Id="244994669" Language="SFX">
+					<ShortName>AssaultRifle_ShotLoop01_Stereo.WAV</ShortName>
+					<Path>SFX\AssaultRifle_ShotLoop01_Stereo_10C4C929.wem</Path>
 				</File>
 				<File Id="250964406" Language="SFX">
 					<ShortName>Footstep_Generic01.WAV</ShortName>
 					<Path>SFX\Footstep_Generic01_422CA412.wem</Path>
 				</File>
+				<File Id="271115699" Language="SFX">
+					<ShortName>FoleyFlesh_Gib05_Stereo.WAV</ShortName>
+					<Path>SFX\FoleyFlesh_Gib05_Stereo_10C4C929.wem</Path>
+				</File>
+				<File Id="330224505" Language="SFX">
+					<ShortName>FoleyFlesh_Gib06.WAV</ShortName>
+					<Path>SFX\FoleyFlesh_Gib06_10C4C929.wem</Path>
+				</File>
 				<File Id="330847727" Language="SFX">
 					<ShortName>Footstep_Generic11.WAV</ShortName>
 					<Path>SFX\Footstep_Generic11_D74FA026.wem</Path>
+				</File>
+				<File Id="348796821" Language="SFX">
+					<ShortName>AssaultRifle_ShotEnd01_Stereo.WAV</ShortName>
+					<Path>SFX\AssaultRifle_ShotEnd01_Stereo_10C4C929.wem</Path>
+				</File>
+				<File Id="379770089" Language="SFX">
+					<ShortName>FoleyFlesh_Gib04.WAV</ShortName>
+					<Path>SFX\FoleyFlesh_Gib04_10C4C929.wem</Path>
 				</File>
 				<File Id="384652671" Language="SFX">
 					<ShortName>Footstep_Generic09.WAV</ShortName>
@@ -60,6 +127,10 @@
 				<File Id="413706425" Language="SFX">
 					<ShortName>Footstep_Generic01.WAV</ShortName>
 					<Path>SFX\Footstep_Generic01_E30B8C73.wem</Path>
+				</File>
+				<File Id="423361559" Language="SFX">
+					<ShortName>AssaultRifle_ShotLoop02_Stereo.WAV</ShortName>
+					<Path>SFX\AssaultRifle_ShotLoop02_Stereo_10C4C929.wem</Path>
 				</File>
 				<File Id="443193269" Language="SFX">
 					<ShortName>Footstep_Generic08.WAV</ShortName>
@@ -101,6 +172,10 @@
 					<ShortName>Footstep_Generic11.WAV</ShortName>
 					<Path>SFX\Footstep_Generic11_0E5C03C4.wem</Path>
 				</File>
+				<File Id="818119165" Language="SFX">
+					<ShortName>AssaultRifle_ShotLoop03_Stereo.WAV</ShortName>
+					<Path>SFX\AssaultRifle_ShotLoop03_Stereo_10C4C929.wem</Path>
+				</File>
 				<File Id="828635196" Language="SFX">
 					<ShortName>Footstep_Generic02.WAV</ShortName>
 					<Path>SFX\Footstep_Generic02_452FBB43.wem</Path>
@@ -113,13 +188,25 @@
 					<ShortName>Footstep_Generic03.WAV</ShortName>
 					<Path>SFX\Footstep_Generic03_95DD6F16.wem</Path>
 				</File>
+				<File Id="1024256028" Language="SFX">
+					<ShortName>FoleyFlesh_Gib06_Stereo.WAV</ShortName>
+					<Path>SFX\FoleyFlesh_Gib06_Stereo_10C4C929.wem</Path>
+				</File>
 				<File Id="1026882453" Language="SFX">
 					<ShortName>Footstep_Generic04.WAV</ShortName>
 					<Path>SFX\Footstep_Generic04_C29B45A1.wem</Path>
 				</File>
+				<File Id="1042212654" Language="SFX">
+					<ShortName>AssaultRifle_ShotEnd02_Stereo.WAV</ShortName>
+					<Path>SFX\AssaultRifle_ShotEnd02_Stereo_10C4C929.wem</Path>
+				</File>
 				<File Id="1054496780" Language="SFX">
 					<ShortName>Footstep_Generic09.WAV</ShortName>
 					<Path>SFX\Footstep_Generic09_C6D7A4E3.wem</Path>
+				</File>
+				<File Id="1057383611" Language="SFX">
+					<ShortName>FoleyFlesh_Gib01.WAV</ShortName>
+					<Path>SFX\FoleyFlesh_Gib01_10C4C929.wem</Path>
 				</File>
 			</IncludedMemoryFiles>
 		</SoundBank>

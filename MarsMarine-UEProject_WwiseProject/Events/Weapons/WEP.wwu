@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{B7D9A682-199B-4C65-B64E-8F1DFFE6DE18}" SchemaVersion="94">
+	<Events>
+		<WorkUnit Name="WEP" ID="{B7D9A682-199B-4C65-B64E-8F1DFFE6DE18}" PersistMode="Standalone">
+			<ChildrenList>
+				<WorkUnit Name="WEP_Assault_Rifle" ID="{7A44C23B-307E-4F1A-B556-BFA086891AA8}" PersistMode="Reference"/>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

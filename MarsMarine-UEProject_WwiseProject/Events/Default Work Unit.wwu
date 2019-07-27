@@ -8,7 +8,7 @@
 						<Action Name="" ID="{390AF693-E823-44DC-B739-276C18D4A1B7}" ShortID="793030877">
 							<ReferenceList>
 								<Reference Name="Target">
-									<ObjectRef Name="440_Tone" ID="{4AACDA60-7C6E-41B1-857C-BB41FDD7FDEA}" WorkUnitID="{142B3593-8C39-44A2-B86E-29B6561A801F}"/>
+									<ObjectRef Name="440_Tone" ID="{4AACDA60-7C6E-41B1-857C-BB41FDD7FDEA}" WorkUnitID="{894FF369-C29E-4C73-83B0-FF6998EF3CF1}"/>
 								</Reference>
 							</ReferenceList>
 						</Action>
@@ -19,7 +19,7 @@
 						<Action Name="" ID="{00BE9246-DFCB-4C24-AEA7-F10A96461462}" ShortID="585261360">
 							<ReferenceList>
 								<Reference Name="Target">
-									<ObjectRef Name="Footsteps" ID="{580CB179-D3AF-4B57-AE8E-FE4B8517BB1B}" WorkUnitID="{142B3593-8C39-44A2-B86E-29B6561A801F}"/>
+									<ObjectRef Name="Footsteps" ID="{580CB179-D3AF-4B57-AE8E-FE4B8517BB1B}" WorkUnitID="{07CBA681-D202-4E9C-90F9-D17728D2633A}"/>
 								</Reference>
 							</ReferenceList>
 						</Action>

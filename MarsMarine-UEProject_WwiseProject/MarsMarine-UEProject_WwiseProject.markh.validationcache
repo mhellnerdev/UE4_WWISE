@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ValidationCache Version="1" SchemaVersion="94">
+	<ValidationCacheItem File="C:\dev\GameDev\Unreal_Projects\UE4\MarsMarine-UEProject\MarsMarine-UEProject_WwiseProject\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1564202194" DateHigh="0"/>
+	<ValidationCacheItem File="C:\dev\GameDev\Unreal_Projects\UE4\MarsMarine-UEProject\MarsMarine-UEProject_WwiseProject\Actor-Mixer Hierarchy\DEV_TestTones.wwu" DateLow="1564202875" DateHigh="0"/>
+	<ValidationCacheItem File="C:\dev\GameDev\Unreal_Projects\UE4\MarsMarine-UEProject\MarsMarine-UEProject_WwiseProject\Actor-Mixer Hierarchy\Enemies\Spider.wwu" DateLow="1564205501" DateHigh="0"/>
+	<ValidationCacheItem File="C:\dev\GameDev\Unreal_Projects\UE4\MarsMarine-UEProject\MarsMarine-UEProject_WwiseProject\Actor-Mixer Hierarchy\MVT_Footstep.wwu" DateLow="1564202021" DateHigh="0"/>
+	<ValidationCacheItem File="C:\dev\GameDev\Unreal_Projects\UE4\MarsMarine-UEProject\MarsMarine-UEProject_WwiseProject\Actor-Mixer Hierarchy\Weapons\WEP.wwu" DateLow="1564203299" DateHigh="0"/>
+	<ValidationCacheItem File="C:\dev\GameDev\Unreal_Projects\UE4\MarsMarine-UEProject\MarsMarine-UEProject_WwiseProject\Attenuations\Default Work Unit.wwu" DateLow="1564200307" DateHigh="0"/>
+	<ValidationCacheItem File="C:\dev\GameDev\Unreal_Projects\UE4\MarsMarine-UEProject\MarsMarine-UEProject_WwiseProject\Audio Devices\Default Work Unit.wwu" DateLow="1564200307" DateHigh="0"/>
+	<ValidationCacheItem File="C:\dev\GameDev\Unreal_Projects\UE4\MarsMarine-UEProject\MarsMarine-UEProject_WwiseProject\Control Surface Sessions\Default Work Unit.wwu" DateLow="1564200307" DateHigh="0"/>
+	<ValidationCacheItem File="C:\dev\GameDev\Unreal_Projects\UE4\MarsMarine-UEProject\MarsMarine-UEProject_WwiseProject\Conversion Settings\Default Work Unit.wwu" DateLow="1564200307" DateHigh="0"/>
+	<ValidationCacheItem File="C:\dev\GameDev\Unreal_Projects\UE4\MarsMarine-UEProject\MarsMarine-UEProject_WwiseProject\Conversion Settings\Factory Conversion Settings.wwu" DateLow="1564200307" DateHigh="0"/>
+	<ValidationCacheItem File="C:\dev\GameDev\Unreal_Projects\UE4\MarsMarine-UEProject\MarsMarine-UEProject_WwiseProject\Dynamic Dialogue\Default Work Unit.wwu" DateLow="1564200307" DateHigh="0"/>
+	<ValidationCacheItem File="C:\dev\GameDev\Unreal_Projects\UE4\MarsMarine-UEProject\MarsMarine-UEProject_WwiseProject\Effects\Default Work Unit.wwu" DateLow="1564200307" DateHigh="0"/>
+	<ValidationCacheItem File="C:\dev\GameDev\Unreal_Projects\UE4\MarsMarine-UEProject\MarsMarine-UEProject_WwiseProject\Effects\Factory Effects.wwu" DateLow="1564200307" DateHigh="0"/>
+	<ValidationCacheItem File="C:\dev\GameDev\Unreal_Projects\UE4\MarsMarine-UEProject\MarsMarine-UEProject_WwiseProject\Events\Default Work Unit.wwu" DateLow="1564202875" DateHigh="0"/>
+	<ValidationCacheItem File="C:\dev\GameDev\Unreal_Projects\UE4\MarsMarine-UEProject\MarsMarine-UEProject_WwiseProject\Events\Enemies\Spider.wwu" DateLow="1564205501" DateHigh="0"/>
+	<ValidationCacheItem File="C:\dev\GameDev\Unreal_Projects\UE4\MarsMarine-UEProject\MarsMarine-UEProject_WwiseProject\Events\Weapons\WEP.wwu" DateLow="1564203299" DateHigh="0"/>
+	<ValidationCacheItem File="C:\dev\GameDev\Unreal_Projects\UE4\MarsMarine-UEProject\MarsMarine-UEProject_WwiseProject\Events\Weapons\WEP_Assault_Rifle.wwu" DateLow="1564203371" DateHigh="0"/>
+	<ValidationCacheItem File="C:\dev\GameDev\Unreal_Projects\UE4\MarsMarine-UEProject\MarsMarine-UEProject_WwiseProject\Game Parameters\Default Work Unit.wwu" DateLow="1564200307" DateHigh="0"/>
+	<ValidationCacheItem File="C:\dev\GameDev\Unreal_Projects\UE4\MarsMarine-UEProject\MarsMarine-UEProject_WwiseProject\Interactive Music Hierarchy\Default Work Unit.wwu" DateLow="1564200308" DateHigh="0"/>
+	<ValidationCacheItem File="C:\dev\GameDev\Unreal_Projects\UE4\MarsMarine-UEProject\MarsMarine-UEProject_WwiseProject\MarsMarine-UEProject_WwiseProject.wproj" DateLow="1564205501" DateHigh="0"/>
+	<ValidationCacheItem File="C:\dev\GameDev\Unreal_Projects\UE4\MarsMarine-UEProject\MarsMarine-UEProject_WwiseProject\Master-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1564200308" DateHigh="0"/>
+	<ValidationCacheItem File="C:\dev\GameDev\Unreal_Projects\UE4\MarsMarine-UEProject\MarsMarine-UEProject_WwiseProject\Mixing Sessions\Default Work Unit.wwu" DateLow="1564200308" DateHigh="0"/>
+	<ValidationCacheItem File="C:\dev\GameDev\Unreal_Projects\UE4\MarsMarine-UEProject\MarsMarine-UEProject_WwiseProject\Modulators\Default Work Unit.wwu" DateLow="1564200308" DateHigh="0"/>
+	<ValidationCacheItem File="C:\dev\GameDev\Unreal_Projects\UE4\MarsMarine-UEProject\MarsMarine-UEProject_WwiseProject\Presets\Default Work Unit.wwu" DateLow="1564200308" DateHigh="0"/>
+	<ValidationCacheItem File="C:\dev\GameDev\Unreal_Projects\UE4\MarsMarine-UEProject\MarsMarine-UEProject_WwiseProject\Queries\Default Work Unit.wwu" DateLow="1564200308" DateHigh="0"/>
+	<ValidationCacheItem File="C:\dev\GameDev\Unreal_Projects\UE4\MarsMarine-UEProject\MarsMarine-UEProject_WwiseProject\Queries\Factory Queries.wwu" DateLow="1564200308" DateHigh="0"/>
+	<ValidationCacheItem File="C:\dev\GameDev\Unreal_Projects\UE4\MarsMarine-UEProject\MarsMarine-UEProject_WwiseProject\SoundBanks\Default Work Unit.wwu" DateLow="1564204111" DateHigh="0"/>
+	<ValidationCacheItem File="C:\dev\GameDev\Unreal_Projects\UE4\MarsMarine-UEProject\MarsMarine-UEProject_WwiseProject\Soundcaster Sessions\Default Work Unit.wwu" DateLow="1564200308" DateHigh="0"/>
+	<ValidationCacheItem File="C:\dev\GameDev\Unreal_Projects\UE4\MarsMarine-UEProject\MarsMarine-UEProject_WwiseProject\States\Default Work Unit.wwu" DateLow="1564200308" DateHigh="0"/>
+	<ValidationCacheItem File="C:\dev\GameDev\Unreal_Projects\UE4\MarsMarine-UEProject\MarsMarine-UEProject_WwiseProject\Switches\Default Work Unit.wwu" DateLow="1564200308" DateHigh="0"/>
+	<ValidationCacheItem File="C:\dev\GameDev\Unreal_Projects\UE4\MarsMarine-UEProject\MarsMarine-UEProject_WwiseProject\Switches\Switch_Materials.wwu" DateLow="1564200308" DateHigh="0"/>
+	<ValidationCacheItem File="C:\dev\GameDev\Unreal_Projects\UE4\MarsMarine-UEProject\MarsMarine-UEProject_WwiseProject\Triggers\Default Work Unit.wwu" DateLow="1564200308" DateHigh="0"/>
+	<ValidationCacheItem File="C:\dev\GameDev\Unreal_Projects\UE4\MarsMarine-UEProject\MarsMarine-UEProject_WwiseProject\Virtual Acoustics\Default Work Unit.wwu" DateLow="1564200308" DateHigh="0"/>
+</ValidationCache>

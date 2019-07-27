@@ -1,2 +1,5 @@
 Main_Soundbank	"Test_Overlap"
 Main_Soundbank	"Footstep"
+Main_Soundbank	"Play_Assault_Rifle_EndLoop"
+Main_Soundbank	"Play_Assault_Rifle_Loop"
+Main_Soundbank	"Spider_Death"

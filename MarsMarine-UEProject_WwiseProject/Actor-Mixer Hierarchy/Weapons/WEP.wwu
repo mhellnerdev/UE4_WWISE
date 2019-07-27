@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{94B30DA2-E883-4807-8888-DF75FC70ACBC}" SchemaVersion="94">
+	<AudioObjects>
+		<WorkUnit Name="WEP" ID="{94B30DA2-E883-4807-8888-DF75FC70ACBC}" PersistMode="Standalone">
+			<ChildrenList>
+				<ActorMixer Name="Assault_Rifle" ID="{E46F3529-9841-428E-BD3B-8229BD9A00D3}" ShortID="43372297">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{6FA53FB9-9819-43F5-B7AB-AE17C07AD311}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{37E548EB-5DDE-4E9A-8F49-630A8659E9B1}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<RandomSequenceContainer Name="Assault_Rifle_Loop" ID="{C899E999-04CF-48CA-BAD4-8ED8045D2C5F}" ShortID="658079939">
+							<PropertyList>
+								<Property Name="PlayMechanismLoop" Type="bool" Value="True"/>
+								<Property Name="PlayMechanismStepOrContinuous" Type="int16" Value="0"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{6FA53FB9-9819-43F5-B7AB-AE17C07AD311}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{37E548EB-5DDE-4E9A-8F49-630A8659E9B1}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<Sound Name="AssaultRifle_ShotLoop01_Stereo" ID="{21C3A041-8B76-4BE4-873A-5C52B0F01A75}" ShortID="437414845">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{6FA53FB9-9819-43F5-B7AB-AE17C07AD311}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{37E548EB-5DDE-4E9A-8F49-630A8659E9B1}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="AssaultRifle_ShotLoop01_Stereo" ID="{5CDD15BD-6067-448A-9BE7-6F4FC2E96BF5}" ShortID="244994669">
+											<Language>SFX</Language>
+											<AudioFile>AssaultRifle_ShotLoop01_Stereo.WAV</AudioFile>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="AssaultRifle_ShotLoop01_Stereo" ID="{5CDD15BD-6067-448A-9BE7-6F4FC2E96BF5}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="AssaultRifle_ShotLoop02_Stereo" ID="{9D88F7E5-2B56-40A7-8577-0A2B1760CD67}" ShortID="455856971">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{6FA53FB9-9819-43F5-B7AB-AE17C07AD311}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{37E548EB-5DDE-4E9A-8F49-630A8659E9B1}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="AssaultRifle_ShotLoop02_Stereo" ID="{7D088733-E0FE-4325-9E83-C4E5A639FA3D}" ShortID="423361559">
+											<Language>SFX</Language>
+											<AudioFile>AssaultRifle_ShotLoop02_Stereo.WAV</AudioFile>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="AssaultRifle_ShotLoop02_Stereo" ID="{7D088733-E0FE-4325-9E83-C4E5A639FA3D}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="AssaultRifle_ShotLoop03_Stereo" ID="{64F434BB-DF33-455E-912F-11AC3C6C1030}" ShortID="1045677425">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{6FA53FB9-9819-43F5-B7AB-AE17C07AD311}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{37E548EB-5DDE-4E9A-8F49-630A8659E9B1}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="AssaultRifle_ShotLoop03_Stereo" ID="{E8A9AEE3-08E1-4455-9DCF-7749BE0B5354}" ShortID="818119165">
+											<Language>SFX</Language>
+											<AudioFile>AssaultRifle_ShotLoop03_Stereo.WAV</AudioFile>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="AssaultRifle_ShotLoop03_Stereo" ID="{E8A9AEE3-08E1-4455-9DCF-7749BE0B5354}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+							</ChildrenList>
+						</RandomSequenceContainer>
+						<RandomSequenceContainer Name="Assault_Rifle_EndLoop" ID="{DF430B06-AE12-4DAC-A0E8-DACF4609DA7D}" ShortID="930416022">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{6FA53FB9-9819-43F5-B7AB-AE17C07AD311}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{37E548EB-5DDE-4E9A-8F49-630A8659E9B1}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<Sound Name="AssaultRifle_ShotEnd01_Stereo" ID="{8557D4EB-3575-4C94-9EB3-63F2BB3BCD75}" ShortID="871676778">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{6FA53FB9-9819-43F5-B7AB-AE17C07AD311}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{37E548EB-5DDE-4E9A-8F49-630A8659E9B1}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="AssaultRifle_ShotEnd01_Stereo" ID="{1530E0C3-23BA-4FA7-B269-08901CDA2C7B}" ShortID="348796821">
+											<Language>SFX</Language>
+											<AudioFile>AssaultRifle_ShotEnd01_Stereo.WAV</AudioFile>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="AssaultRifle_ShotEnd01_Stereo" ID="{1530E0C3-23BA-4FA7-B269-08901CDA2C7B}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="AssaultRifle_ShotEnd02_Stereo" ID="{B284FA65-F693-48A4-9F1E-465BF4850C02}" ShortID="911766138">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{6FA53FB9-9819-43F5-B7AB-AE17C07AD311}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{37E548EB-5DDE-4E9A-8F49-630A8659E9B1}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="AssaultRifle_ShotEnd02_Stereo" ID="{A3367D44-2525-4F04-B819-9FBF497C1494}" ShortID="1042212654">
+											<Language>SFX</Language>
+											<AudioFile>AssaultRifle_ShotEnd02_Stereo.WAV</AudioFile>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="AssaultRifle_ShotEnd02_Stereo" ID="{A3367D44-2525-4F04-B819-9FBF497C1494}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="AssaultRifle_ShotEnd03_Stereo" ID="{63EB3ABE-7493-4767-81D5-D2B9C3A49711}" ShortID="383284284">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{6FA53FB9-9819-43F5-B7AB-AE17C07AD311}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{37E548EB-5DDE-4E9A-8F49-630A8659E9B1}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="AssaultRifle_ShotEnd03_Stereo" ID="{4E28694F-1928-4D63-8176-F0B3E481E1EB}" ShortID="21664215">
+											<Language>SFX</Language>
+											<AudioFile>AssaultRifle_ShotEnd03_Stereo.WAV</AudioFile>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="AssaultRifle_ShotEnd03_Stereo" ID="{4E28694F-1928-4D63-8176-F0B3E481E1EB}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="AssaultRifle_ShotEnd04_Stereo" ID="{216B459E-C42A-40D3-8006-9804D81213F6}" ShortID="842441692">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{6FA53FB9-9819-43F5-B7AB-AE17C07AD311}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{37E548EB-5DDE-4E9A-8F49-630A8659E9B1}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="AssaultRifle_ShotEnd04_Stereo" ID="{525EC46C-C3F2-4EF0-BE28-369ED25F07CD}" ShortID="3476768">
+											<Language>SFX</Language>
+											<AudioFile>AssaultRifle_ShotEnd04_Stereo.WAV</AudioFile>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="AssaultRifle_ShotEnd04_Stereo" ID="{525EC46C-C3F2-4EF0-BE28-369ED25F07CD}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="AssaultRifle_ShotEnd05_Stereo" ID="{47ACEBD2-396C-4E6F-ACA5-0A14726A6223}" ShortID="897523654">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{6FA53FB9-9819-43F5-B7AB-AE17C07AD311}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{37E548EB-5DDE-4E9A-8F49-630A8659E9B1}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="AssaultRifle_ShotEnd05_Stereo" ID="{B41301DE-AE0D-4261-B579-C56B76460DD4}" ShortID="27527134">
+											<Language>SFX</Language>
+											<AudioFile>AssaultRifle_ShotEnd05_Stereo.WAV</AudioFile>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="AssaultRifle_ShotEnd05_Stereo" ID="{B41301DE-AE0D-4261-B579-C56B76460DD4}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="AssaultRifle_ShotEnd06_Stereo" ID="{ECA3A3CC-623A-4225-942A-F7EBD9545600}" ShortID="573622858">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{6FA53FB9-9819-43F5-B7AB-AE17C07AD311}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{37E548EB-5DDE-4E9A-8F49-630A8659E9B1}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="AssaultRifle_ShotEnd06_Stereo" ID="{07492116-018F-49CC-90FF-8FA3D34AFC05}" ShortID="67390931">
+											<Language>SFX</Language>
+											<AudioFile>AssaultRifle_ShotEnd06_Stereo.WAV</AudioFile>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="AssaultRifle_ShotEnd06_Stereo" ID="{07492116-018F-49CC-90FF-8FA3D34AFC05}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+							</ChildrenList>
+						</RandomSequenceContainer>
+					</ChildrenList>
+				</ActorMixer>
+			</ChildrenList>
+		</WorkUnit>
+	</AudioObjects>
+</WwiseDocument>
